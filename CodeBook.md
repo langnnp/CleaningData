@@ -1,4 +1,5 @@
-"column.names" | "class" | "range"
+“ID” | “Variables” | “Type” | “Range (Max:Min)“
+---|---|---|---
 "1" | "SubjectID" | "integer" | "1:30"
 "2" | "ActivityID" | "factor" | "LAYING:SITTING:STANDING:WALKING:WALKING_DOWNSTAIRS:WALKING_UPSTAIRS"
 "3" | "tBodyAcc.mean...X" | "numeric" | "0.265696920582133:0.280179098426966"
